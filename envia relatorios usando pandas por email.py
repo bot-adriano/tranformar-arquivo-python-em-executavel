@@ -45,7 +45,7 @@ mail.HTMLBody = f'''
 <p>Qualquer dúvida estou à disposição.</p>
 
 <p>Att.,</p>
-<p>Lira</p>
+<p>Claudio</p>
 '''
 #comando pra tranformar em executavel
 #pyinstaller - -onefile nome do arquivo
